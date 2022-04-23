@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+ 
+#example1 {
+	
+	widht:30%;
+  border: 1px solid;
+  
+  padding: 30px;
+  box-shadow: 5px 10px;
+}
